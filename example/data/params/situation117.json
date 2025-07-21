@@ -1,0 +1,10 @@
+{
+    "n_visible": 7,
+    "n_hidden": 4,
+    "n_epochs": 500000,
+    "n_epochs_m": 100000,
+    "learning_rate": 2e-1,
+    "epsilon_em": 1e-7,
+    "epsilon_gd": 1e-7,
+    "data_type": "even_parity"
+}
